@@ -1,8 +1,9 @@
-BehaviorTree/Library/*
-BehaviorTree/obj/*
-BehaviorTree/Temp/*
+Library/*
+obj/*
+Temp/*
+Logs/*
 
-BehaviorTree/.vs/*
+.vs/*
 
 *.csproj
 
